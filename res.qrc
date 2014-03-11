@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/black.gif</file>
+        <file>images/white.gif</file>
+        <file>qothello_en.qm</file>
+    </qresource>
+</RCC>
